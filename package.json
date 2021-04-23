@@ -1,0 +1,25 @@
+{
+  "name": "@swivel-software/testing-npm",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/swivelsoftware/testing-npm.git"
+  },
+  "keywords": [
+    "testing"
+  ],
+  "author": "swivel-software",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/swivelsoftware/testing-npm/issues"
+  },
+  "homepage": "https://github.com/swivelsoftware/testing-npm#readme",
+  "dependencies": {
+    "axios": "^0.21.1"
+  }
+}
